@@ -9,7 +9,7 @@
 # Running
   Prepare data. <br>
   ## Download pre-trained BERT model. <br>
-   Tar [BioBERT Pre-trained Weights] (https://github.com/naver/biobert-pretrained/releases) in folder ./pretrained_bert_model. <br>
+   Tar BioBERT Pre-trained Weights https://github.com/naver/biobert-pretrained/releases in folder ./pretrained_bert_model. <br>
 
   ## Run <br>
    python run_cnn.py train <br>
