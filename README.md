@@ -9,7 +9,7 @@
 # Running
   prepare data <br>
   ## Download pre-trained BERT model. <br>
-   Unzip uncased_L-12_H-768_A-12.zip and chinese_L-12_H-768_A-12.zip in folder ./pretrained_bert_model. <br>
+   Tar [BioBERT Pre-trained Weights] (https://github.com/naver/biobert-pretrained/releases) in folder ./pretrained_bert_model. <br>
 
   ## Run <br>
    python run_cnn.py train <br>
